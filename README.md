@@ -51,7 +51,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 ## License
 
-This project is licensed under the [](LICENSE).
+This project is licensed under the [Apache License](LICENSE).
 
 ## Project Structure
 
