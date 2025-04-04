@@ -5,7 +5,6 @@ This project aims to predict student performance based on various factors such a
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Model Training](#model-training)
@@ -19,8 +18,6 @@ This project aims to predict student performance based on various factors such a
 
 In today's educational landscape, understanding the factors that contribute to a student's academic performance is crucial for educators, parents, and policymakers. This project leverages machine learning techniques to predict a student's performance in mathematics based on various factors. By providing accurate predictions, this tool can help identify students who may need additional support and tailor educational strategies accordingly.
 
-**Note: This Project is for Educational Purposes Only**
-
 The Student Exam Performance Predictor project is developed for educational purposes to showcase the application of machine learning techniques in predicting student performance. The results obtained from this project are based on a specific dataset and machine learning model, and should not be considered as definitive or accurate predictions for real-world scenarios. The primary goal of this project is to demonstrate the end-to-end process of developing a machine learning model and provide insights into the factors influencing student performance.
 
 
@@ -29,11 +26,6 @@ The Student Exam Performance Predictor project is developed for educational purp
 - Provides insights into the influence of gender, ethnicity, parental level of education, lunch type, and test preparation course on student performance.
 - User-friendly interface for inputting student information and obtaining predictions.
 
-## Installation
-
-1. Clone the repository: `git clone https://github.com/skprasad117/Predicting-Student-Performance-Using-Machine-Learning.git`
-2. Navigate to the project directory: `cd Predicting-Student-Performance-Using-Machine-Learning`
-3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
 
@@ -59,7 +51,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [](LICENSE).
 
 ## Project Structure
 
@@ -87,10 +79,6 @@ The project has the following structure:
   - `css`: This directory contains CSS files for styling the web application.
 - `templates`: This directory contains HTML templates used in the web application.
 
-## Author
-Sanjay Kumar Prasad, You can also visit my GitHub profile: @skprasad117
-
-Feel free to reach out with any questions or feedback regarding the project.
 
 
 
