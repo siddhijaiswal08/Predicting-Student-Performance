@@ -1,4 +1,4 @@
-# Predicting-Student-Performance-Using-Machine-Learning
+![image](https://github.com/user-attachments/assets/48ad4c93-c5a0-438b-a963-49e82e62ce6f)# Predicting-Student-Performance-Using-Machine-Learning
 
 This project aims to predict student performance based on various factors such as gender, ethnicity, parental level of education, lunch type, test preparation course, and exam scores. The machine learning model trained on a dataset of student information can provide insights into predicting a student's performance in mathematics.
 
@@ -30,7 +30,7 @@ The Student Exam Performance Predictor project is developed for educational purp
 ## Usage
 
 1. Run the application: `python app.py`
-2. Access the web interface in your browser at `http://localhost:5000`
+2. Access the web interface in your browser at `http://127.0.0.1:5000`
 3. Fill in the student information and submit the form to obtain the predicted math score.
 
 ## Dataset
